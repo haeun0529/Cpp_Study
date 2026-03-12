@@ -1,4 +1,3 @@
-*
-
-!*.cpp
-!.gitignore
+*.exe
+*.out
+.DS_Store
